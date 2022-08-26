@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm tugrul ceylan</h1>
-<h3 align="center">Mechanical Engineer (M.Sc.) / Fierce Data Enthusiast / Amateur Web Devfrom Turkey</h3>
+<h3 align="center">Mechanical Engineer (M.Sc.) / Crypto Bots and Stock Market Indicators / Amateur Web Devfrom Turkey</h3>
 
 - 🌱 I’m currently learning **Vue , javascript **
 
 - 👯 I’m looking to collaborate on **open-source data and web projects**
 
-- 🔭 I’m currently working on hukukwork
+- 🔭 I’m currently working on hukukwork & freelancer remote
 
 - 📫 How to reach me: tgrlcyln@gmail.com
 
