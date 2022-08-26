@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open-source data and web projects**
 
-- 🔭 I’m currently working on hukukwork & freelancer remote
+- 🔭 I’m currently working on [hukukwork](https://www.hukukwork.com) & freelancer remote
 
 - 📫 How to reach me: tgrlcyln@gmail.com
 
