@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm tugrul ceylan</h1>
-=============================
 <h3 align="center">Mechanical Engineer (M.Sc.) / Crypto Bots and Stock Market Indicators / Laravel Web Developer from Turkey</h3>
 
 <a target="_blank" align="center">
