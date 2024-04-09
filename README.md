@@ -51,21 +51,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tgrlcyln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tgrlcyln" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/oxygen32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oxygen32" height="30" width="40" /></a>
+
 </p>
 <br>
 <br>
+<p align= "center">
+    <img height= "150" src="https://streak-stats.demolab.com?user=tgrlcyln" alt="GitHub Streak" /></a>
+</p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=tgrlcyln&show_icons=true&include_all_commits=true" />
-
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=tgrlcyln&show_icons=true&include_all_commits=true" />
+  
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgrlcyln&layout=compact" />
-</p>
 <br>
 
 -----
 Credits: [Tuğrul CEYLAN](https://github.com/tgrlcyln)
 
-Last Edited on: 23/07/2023
